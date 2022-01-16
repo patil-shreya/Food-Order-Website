@@ -8,9 +8,13 @@ This PHP project can be used by any restaurants or fast foods for customers for 
 # Tech Stack used: 
 
 •	Server: Apache 2.4.4 
+
 •	Front-end: PHP 5.4.19 (Framework: Code igniter 2.1.2) 
+
 •	Back-end: MySQL 5.5.32(using phpmyadmin 4.0.6) 
+
 •	Integrated Development Environment (IDE): Visual Studio Code (Latest Version.) 
+
 •	Platform: Windows 10 or higher. 
 
 We have used XAMPP 1.8.2 which is a free and Open-Source Cross-Platform Web Server Solution Stack. It comes with Apache Web Server, MySQL Database, PHP and Perl Programming Languages. 
