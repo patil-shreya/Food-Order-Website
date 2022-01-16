@@ -5,7 +5,8 @@ Online Food Ordering System has a very lot of scope.
  
 This PHP project can be used by any restaurants or fast foods for customers for keeping their order records. This project is easy, fast and accurate. It requires less disk space. Online Food Ordering System uses MYSQL Server as backend so there is not any chance of data loss or data security. 
 
-Tech Stack used: 
+# Tech Stack used: 
+
 •	Server: Apache 2.4.4 
 •	Front-end: PHP 5.4.19 (Framework: Code igniter 2.1.2) 
 •	Back-end: MySQL 5.5.32(using phpmyadmin 4.0.6) 
@@ -21,9 +22,9 @@ A couple of advantages of using XAMPP for development are:
 4.	PHP error reporting is enabled by default, which helps when debugging scripts. 
 5.	Easy to install. 
 
-Apache Server 
+# Apache Server 
 Web server Apache is an open-source server application. There are a lot of benefits and advantages that are provided from the server. Numerous features like the openness, extensibility, portability and flexibility of apache server provide advantages to administrator leading to higher efficiency and utility. 
 
-MySQL 
+# MySQL 
 MySQL is easy to use, yet extremely powerful, secure, and scalable. And because of its small size and speed, it is the ideal database solution for Web sites.  
 
